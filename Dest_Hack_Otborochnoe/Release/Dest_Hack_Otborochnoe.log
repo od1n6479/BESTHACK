@@ -1,0 +1,12 @@
+﻿  Dest_Hack_Otborochnoe.cpp
+f:\dest_hack_otborochnoe\dest_hack_otborochnoe\dest_hack_otborochnoe.cpp(43): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+f:\dest_hack_otborochnoe\dest_hack_otborochnoe\dest_hack_otborochnoe.cpp(46): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+f:\dest_hack_otborochnoe\dest_hack_otborochnoe\dest_hack_otborochnoe.cpp(119): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+f:\dest_hack_otborochnoe\dest_hack_otborochnoe\dest_hack_otborochnoe.cpp(180): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+f:\dest_hack_otborochnoe\dest_hack_otborochnoe\dest_hack_otborochnoe.cpp(251): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  1 of 173 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Dest_Hack_Otborochnoe.vcxproj -> F:\Dest_Hack_Otborochnoe\Release\Dest_Hack_Otborochnoe.exe
